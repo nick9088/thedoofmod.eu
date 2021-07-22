@@ -108,6 +108,10 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "github"
     url  = "https://github.com/thedoofmodern"
+    
+    [params.utterances]       # https://utteranc.es/
+    owner = "thedoofmodern"              # Your GitHub ID
+    repo = "thedoofmodern/thedoofmod.eu"               # The repo to store comments
 
 [languages]
   [languages.it]
