@@ -138,3 +138,11 @@ disableHugoGeneratorInject = false
     identifier = "projects"
     name       = "Progetti"
     url        = "projects/"
+    
+## Configure utteranc comments, tutorial reference https://utteranc.es/
+[params.utteranc]
+  enable = true
+  repo = "thedoofmodern/thedoofmod.eu" ##Change to own
+  issueTerm = ""
+  theme = "github-light"
+
