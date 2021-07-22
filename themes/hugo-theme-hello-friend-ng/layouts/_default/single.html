@@ -30,9 +30,11 @@
             <div class="post-content">
                 {{ .Content }}
             </div>
-            <div class="article-container"></div>
-{{ partial "comments.html" . }}
-</div>  
+            <div class="post-comment">
+          {{ if ( .Params.showComments | default true ) }}
+          {{ partial "comments.html" . }}
+          {{ end }}
+    </div>
 		
         </article>
 
