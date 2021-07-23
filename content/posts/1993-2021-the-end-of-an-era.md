@@ -14,5 +14,6 @@ si sono sciolti i daft punk...
 
 
 
-epilogue...
-
+Copyright © 2021 Sony Music Entertainment. All Rights Reserved.
+Copyright © 2021 Daft Life. All Rights Reserved.
+Copyright © 2021 Daft Punk. All Rights Reserved.
