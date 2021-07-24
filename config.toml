@@ -111,7 +111,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "telegram"
-    url  = "https://t.me/@thedoofmodern"
+    url  = "https://t.me/thedoofmodern"
 
     
     [params.utterances]       # https://utteranc.es/
