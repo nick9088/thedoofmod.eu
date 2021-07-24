@@ -108,6 +108,11 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "github"
     url  = "https://github.com/thedoofmodern"
+
+  [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/@thedoofmodern"
+
     
     [params.utterances]       # https://utteranc.es/
     owner = "thedoofmodern"              # Your GitHub ID
