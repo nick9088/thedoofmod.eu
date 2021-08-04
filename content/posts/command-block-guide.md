@@ -14,15 +14,25 @@ Salve!, cominciamo subito!
 @s = te stesso 
 
 >/give
+
 Sintassi esempio: /give @"lettera" "id_blocco" "quantita"
+
 >/summon
+
 sintassi esempio: /summon "id_dell_entita"
+
 >/tp 
+
 sintassi esempio: /tp nome_player nome_player
+
 oppure: /tp @"lettera" "cordinate"
+
 >/setblock
+
 sintassi esempio: /setblock "cordinate" "id_blocco"
+
 >/fill
+
 sintassi esempio: /fill "cordinata_blocco_inizio" "cordinata_blocco_fine" "id_blocco"
 
 Questa è la fine... Almeno per ora!
