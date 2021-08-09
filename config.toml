@@ -103,11 +103,11 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:itzdoof@doofmail.ml"
+    url  = "mailto:thedoofmod@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/thedoofmodern"
+    url  = "https://github.com/thed00f"
 
   [[params.social]]
     name = "telegram"
@@ -115,8 +115,8 @@ disableHugoGeneratorInject = false
 
     
     [params.utterances]       # https://utteranc.es/
-    owner = "thedoofmodern"              # Your GitHub ID
-    repo = "thedoofmodern/thedoofmod.eu"               # The repo to store comments
+    owner = "thed00f"              # Your GitHub ID
+    repo = "thed00f/thedoofmod.eu"               # The repo to store comments
 
 [languages]
   [languages.it]
@@ -151,7 +151,7 @@ disableHugoGeneratorInject = false
 ## Configure utteranc comments, tutorial reference https://utteranc.es/
 [params.utteranc]
   enable = true
-  repo = "thedoofmodern/thedoofmod.eu" ##Change to own
+  repo = "thed00f/thedoofmod.eu" ##Change to own
   issueTerm = ""
   theme = "github-light"
 
