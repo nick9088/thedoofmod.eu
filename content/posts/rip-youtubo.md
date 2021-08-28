@@ -13,3 +13,5 @@ tags:
 
 ![Annuncio Funebre Del Maestro](/static/af_prof.png)
  Immagini prese da game-experience.com e ilmessaggero.it
+ 
+ F In comments [You need to register a github account to type F...]
