@@ -1,6 +1,6 @@
 baseURL = "/"
 title   = "thedoofmodern"
-languageCode = "it-it"
+languageCode = "it"
 theme = "hugo-theme-hello-friend-ng"
 
 PygmentsCodeFences = true
