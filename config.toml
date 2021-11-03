@@ -112,6 +112,10 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "telegram"
     url  = "https://t.me/thedoofofficial"
+    
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/channel/UC-ssfMFG9yn2mK5DV3Vxtuw"
 
     
     [params.utterances]       # https://utteranc.es/
