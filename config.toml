@@ -116,7 +116,10 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "youtube"
     url  = "https://www.youtube.com/channel/UC-ssfMFG9yn2mK5DV3Vxtuw"
-
+     
+   [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/thedoof420?t=xB55s50-8fv-BksX1yx4mw&s=09"
     
     [params.utterances]       # https://utteranc.es/
     owner = "thed00f"              # Your GitHub ID
