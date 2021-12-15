@@ -121,6 +121,10 @@ disableHugoGeneratorInject = false
     name = "twitter"
     url  = "https://twitter.com/thedoof420?t=xB55s50-8fv-BksX1yx4mw&s=09"
     
+    [[params.social]]
+    name = "twitch"
+    url  = "https://twitch.tv/itzdoof420"
+    
     [params.utterances]       # https://utteranc.es/
     owner = "thed00f"              # Your GitHub ID
     repo = "thed00f/thedoofmod.eu"               # The repo to store comments
