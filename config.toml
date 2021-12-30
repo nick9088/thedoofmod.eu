@@ -158,6 +158,7 @@ disableHugoGeneratorInject = false
     identifier = "projects"
     name       = "Progetti"
     url        = "projects/"
+  
     
 ## Configure utteranc comments, tutorial reference https://utteranc.es/
 [params.utteranc]
