@@ -1,7 +1,7 @@
 ---
 title: "How to install stepmania 5 on linux 64bits"
 date: 2022-01-01T14:20:27+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
