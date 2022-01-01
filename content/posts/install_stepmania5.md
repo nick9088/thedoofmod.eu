@@ -13,7 +13,7 @@ After a big long interruption here i am!
 
 For installing it i have made an automated script
 
-You can download it [Here]({{< ref "https://thedoofmod.eu/scripts/installstepmania.sh" >}})
+You can download at: https://thedoofmod.eu/scripts/installstepmania.sh
 
 Or you can install it manually:
 
