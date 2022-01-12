@@ -124,6 +124,14 @@ disableHugoGeneratorInject = false
     [[params.social]]
     name = "twitch"
     url  = "https://twitch.tv/itzdoof420"
+
+    [[params.social]]
+    name = "facebook"
+    url  = "https://facebook.com/thedoof.official"
+
+    [[params.social]]
+    name = "tumblr"
+    url  = "https://tumblr.com/blog/fuzzydreamerdonut"
     
     [params.utterances]       # https://utteranc.es/
     owner = "thed00f"              # Your GitHub ID
