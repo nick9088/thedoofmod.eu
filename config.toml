@@ -106,10 +106,6 @@ disableHugoGeneratorInject = false
     url  = "mailto:thedoofm@gmail.com?subject=Hallo!"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/thed00f"
-
-  [[params.social]]
     name = "telegram"
     url  = "https://t.me/+7tMWX1m8mucxNTNk"
     
@@ -122,16 +118,8 @@ disableHugoGeneratorInject = false
     url  = "https://twitter.com/thedoof420?t=xB55s50-8fv-BksX1yx4mw&s=09"
     
     [[params.social]]
-    name = "twitch"
-    url  = "https://twitch.tv/itzdoof420"
-
-    [[params.social]]
-    name = "facebook"
-    url  = "https://facebook.com/thedoof.official"
-
-    [[params.social]]
-    name = "tumblr"
-    url  = "https://tumblr.com/blog/fuzzydreamerdonut"
+    name = "instagram"
+    url  = "https://instagram.com/thedoof.official"
     
     [params.utterances]       # https://utteranc.es/
     owner = "thed00f"              # Your GitHub ID
