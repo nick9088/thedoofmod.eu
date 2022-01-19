@@ -115,7 +115,7 @@ disableHugoGeneratorInject = false
      
    [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/thedoof420?t=xB55s50-8fv-BksX1yx4mw&s=09"
+    url  = "https://twitter.com/thedoof420"
     
     [[params.social]]
     name = "instagram"
