@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "thedoofmodern"
+title   = "nick909"
 languageCode = "it"
 theme = "hugo-theme-hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "thedoofmodern"
+  name = "nick909"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -87,7 +87,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/thedoof "
+    logoText     = "$ cd /home/nick909 "
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -119,7 +119,7 @@ disableHugoGeneratorInject = false
     
     [[params.social]]
     name = "instagram"
-    url  = "https://instagram.com/thedoof.official"
+    url  = "https://instagram.com/nick909.official"
     
     [params.utterances]       # https://utteranc.es/
     owner = "thed00f"              # Your GitHub ID
