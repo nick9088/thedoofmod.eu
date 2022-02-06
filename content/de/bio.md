@@ -3,7 +3,7 @@ title: "Bio"
 ---
 > Also ... wo kann ich anfangen ... Ah da!
 
-Hallo zusammen, ich bin thedoofmodern! A.K.A. Nicolò Falzarano
+Hallo zusammen, ich bin nick909! A.K.A. Nicolò Falzarano
 
 Ich bin 11 Jahre alt, mein Hobby ist Programmieren, Entwickeln und Webdesign "oder was zum Teufel buchstabiert man"
 
