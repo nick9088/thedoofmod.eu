@@ -3,7 +3,7 @@ title: "Bio"
 ---
 > So ... Where can I start ... Ah there I am!
 
-Hi all I am thedoofmodern! A.K.A Nicolò Falzarano
+Hi all I am nick909! A.K.A Nicolò Falzarano
 
 I am 11 years old and my hobby is programming, developing and web design 
 
