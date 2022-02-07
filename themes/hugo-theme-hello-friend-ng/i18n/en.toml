@@ -4,33 +4,33 @@
 # Generic
 #
 [translations]
-other = "Translations"
+other = "Traduzioni"
 
 [postAvailable]
-other = "Also available in"
+other = "Disponibile anche In"
 
 
 # 404.html
 #
 [archives]
-other = "Archives"
+other = "Archivi"
 
 [home]
 other = "Home"
 
 [notFound]
-other = "Oops, page not found…"
+other = "Oops, pagina non disponibile…"
 
 
 # posts/single.html
 #
 [readingTime]
-one   = "One minute"
-other = "{{ .Count }} minutes"
+one   = "Un Minuto"
+other = "{{ .Count }} minuti"
 
 [tableOfContents]
-other = "Table of Contents"
+other = "Tabella dei contenuti"
 
 [wordCount]
-one   = "One Word"
-other = "{{ .Count }} Words"
+one   = "Una Parola"
+other = "{{ .Count }} Parole"
