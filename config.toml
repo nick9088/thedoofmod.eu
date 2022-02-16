@@ -60,7 +60,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "The h4ck3r s'page"
+  homeSubtitle = "Modding'n'stuff"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
