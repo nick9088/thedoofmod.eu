@@ -127,17 +127,17 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.it]
-    subtitle  = "La pagina dell'h4ck3r"
+    subtitle  = "Modding'n'stuff"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.en]
-    subtitle  = "The h4ck3r s'page"
+    subtitle  = "Modding'n'stuff"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.de]
-    subtitle  = "Die Seite von h4ck3r"
+    subtitle  = "Modding'n'stuff"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
