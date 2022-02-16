@@ -121,6 +121,10 @@ disableHugoGeneratorInject = false
     name = "instagram"
     url  = "https://instagram.com/nick909.official"
     
+    [[params.social]]
+    name = "discord"
+    url = "https://discord.gg/vQMtQ7jDyk"
+    
     [params.utterances]       # https://utteranc.es/
     owner = "thed00f"              # Your GitHub ID
     repo = "thed00f/thedoofmod.eu"               # The repo to store comments
