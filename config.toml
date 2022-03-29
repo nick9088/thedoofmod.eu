@@ -123,11 +123,11 @@ disableHugoGeneratorInject = false
     
     [[params.social]]
     name = "discord"
-    url = "https://discord.gg/vQMtQ7jDyk"
+    url = "https://discord.gg/9Rp5Q39TUT"
     
     [params.utterances]       # https://utteranc.es/
-    owner = "thed00f"              # Your GitHub ID
-    repo = "thed00f/thedoofmod.eu"               # The repo to store comments
+    owner = "nick9088"              # Your GitHub ID
+    repo = "nick9088/thedoofmod.eu"               # The repo to store comments
 
 [languages]
   [languages.it]
@@ -163,7 +163,7 @@ disableHugoGeneratorInject = false
 ## Configure utteranc comments, tutorial reference https://utteranc.es/
 [params.utteranc]
   enable = true
-  repo = "thed00f/thedoofmod.eu" ##Change to own
+  repo = "nick9088/thedoofmod.eu" ##Change to own
   issueTerm = ""
   theme = "github-light"
 
